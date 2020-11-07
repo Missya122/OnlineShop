@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
 
     private Button joinNowButton, loginButton;
 
+    private Button btn;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
