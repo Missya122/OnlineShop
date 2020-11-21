@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button joinNowButton, loginButton;
 
-    private Button btn;
+    private Button btn, btn2;
 
 
     @Override
